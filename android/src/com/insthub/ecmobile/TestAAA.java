@@ -2,6 +2,7 @@ package com.insthub.ecmobile;
 
 public class TestAAA {
 	public static void main(String[] args) {
-		System.out.println("上传");
+		String str = "上传";
+		System.out.println(str);
 	}
 }
