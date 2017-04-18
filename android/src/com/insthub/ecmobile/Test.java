@@ -5,5 +5,6 @@ public class Test {
 	int solary;
 	String name1;
 	String address;
+	String name;
  
 }
