@@ -6,5 +6,6 @@ public class Test {
 	String name1;
 	String address;
 	String name;
+	String sex;
  
 }
